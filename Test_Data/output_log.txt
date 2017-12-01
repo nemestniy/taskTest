@@ -5,24 +5,21 @@ Direct3D:
     Renderer: Intel(R) HD Graphics 520 (ID=0x1916)
     Vendor:   Intel
     VRAM:     2148 MB
-    Driver:   21.20.16.4550
+    Driver:   22.20.16.4815
 Begin MonoManager ReloadAssembly
-Platform assembly: E:\Projects\Unity\Platformer\Test_Data\Managed\UnityEngine.dll (this message is harmless)
-Loading E:\Projects\Unity\Platformer\Test_Data\Managed\UnityEngine.dll into Unity Child Domain
-Platform assembly: E:\Projects\Unity\Platformer\Test_Data\Managed\Assembly-CSharp.dll (this message is harmless)
-Loading E:\Projects\Unity\Platformer\Test_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
-Platform assembly: E:\Projects\Unity\Platformer\Test_Data\Managed\UnityEngine.UI.dll (this message is harmless)
-Loading E:\Projects\Unity\Platformer\Test_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
-Platform assembly: E:\Projects\Unity\Platformer\Test_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
-Loading E:\Projects\Unity\Platformer\Test_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
-- Completed reload, in  0.054 seconds
-Platform assembly: E:\Projects\Unity\Platformer\Test_Data\Managed\System.Core.dll (this message is harmless)
-Platform assembly: E:\Projects\Unity\Platformer\Test_Data\Managed\System.dll (this message is harmless)
+Platform assembly: E:\Projects\Unity\taskTest\Test_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading E:\Projects\Unity\taskTest\Test_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: E:\Projects\Unity\taskTest\Test_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading E:\Projects\Unity\taskTest\Test_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: E:\Projects\Unity\taskTest\Test_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading E:\Projects\Unity\taskTest\Test_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: E:\Projects\Unity\taskTest\Test_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading E:\Projects\Unity\taskTest\Test_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+- Completed reload, in  0.022 seconds
+Platform assembly: E:\Projects\Unity\taskTest\Test_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: E:\Projects\Unity\taskTest\Test_Data\Managed\System.dll (this message is harmless)
 desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
 <RI> Initializing input.
 <RI> Input initialized.
 <RI> Initialized touch support.
-UnloadTime: 3.571753 ms
-Setting up 2 worker threads for Enlighten.
-  Thread -> id: 3138 -> priority: 1 
-  Thread -> id: 1b8c -> priority: 1 
+UnloadTime: 5.388639 ms
